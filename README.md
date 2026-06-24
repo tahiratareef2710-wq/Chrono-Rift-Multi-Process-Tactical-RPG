@@ -16,6 +16,9 @@ combat against computer-controlled enemies. Entities compete for execution
 time based on a stamina-driven scheduling system inspired by classic RPG mechanics.
 
 ---
+## Team
+1. Tahira Tareef
+2. Sukaina Zainab
 
 ## Key Features
 
@@ -60,8 +63,5 @@ make
 
 ---
 
-## Course Info
 
-**Course:** CS 2006 — Operating Systems  
-**University:** FAST-NUCES  
-**Semester:** Spring 2026
+
